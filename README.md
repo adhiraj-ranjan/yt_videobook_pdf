@@ -9,7 +9,9 @@ All the values can be easily adjusted as per specific usage.
 ## Requirements
 
 **`pip install -r requirements.txt`**
+**`apt install yt-dlp`** for linux
 
+yt-dlp is required in path for youtube video downloading, refer https://github.com/yt-dlp/yt-dlp
 
 ### Find Me on :
 <p align="left">
